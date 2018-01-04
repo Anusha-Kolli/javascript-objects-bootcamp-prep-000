@@ -10,5 +10,4 @@ function removeFromPlaylist(playlist, artistName){
  return playlist;
 
 }
-playlist.kanye = "Gold Digger";
 removeFromPlaylist(playlist, "Kanye");
