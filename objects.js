@@ -1,2 +1,1 @@
-const playlist =[{artistName:'hi', songTitle:'b'}];
-typeof playlist;
+var playlist = new object();
