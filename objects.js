@@ -11,4 +11,6 @@ function removeFromPlaylist(playlist, artistName){
 
 }
 
+updatePlaylist(playlist, 'kanye', "Gold Digger");
+
 removeFromPlaylist(playlist, "Kanye");
