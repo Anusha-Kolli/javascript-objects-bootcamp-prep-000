@@ -11,8 +11,5 @@ function removeFromPlaylist(playlist, artistName){
 
 }
 
-delete playlist.breakfast;
-playlist;
-
 removeFromPlaylist({ Kanye: 'Gold Digger'}, "Kanye");
 playlist;
