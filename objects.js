@@ -10,4 +10,5 @@ function removeFromPlaylist(playlist, artistName){
  return playlist;
 
 }
+removeFromPlaylist(playlist,"breakfast");
 removeFromPlaylist(playlist, "Kanye");
