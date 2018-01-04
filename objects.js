@@ -10,4 +10,4 @@ function removeFromPlaylist(playlist, artistName){
 
 }
 
-removeFromPlaylist({ Kanye: "Gold Digger" }, "Kanye");
+removeFromPlaylist(playlist, "Kanye");
