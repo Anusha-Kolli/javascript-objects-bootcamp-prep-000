@@ -5,4 +5,4 @@ function updatePlaylist(playlist, artistName,songTitle){
    return obj;
 
 }
-updateObjectWithKeyAndValue(playlist, 'Phil Ochs', "Here's to the State of Mississippi")
+updatePlaylist(playlist, artistName,songTitle);
