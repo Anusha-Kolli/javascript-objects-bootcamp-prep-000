@@ -9,3 +9,5 @@ function removeFromPlaylist(playlist, artistName){
  return delete playlist.artistName;
 
 }
+
+removeFromPlaylist({ Kanye: "Gold Digger" }, "Kanye");
