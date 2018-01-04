@@ -1,2 +1,2 @@
-var playlist = new object();
+var playlist = new object({ breakfast: 'oatmeal' });
 typeof playlist;
