@@ -14,3 +14,4 @@ function removeFromPlaylist(playlist, artistName){
 
 
 removeFromPlaylist({ Kanye: 'Gold Digger'}, "Kanye");
+playlist;
